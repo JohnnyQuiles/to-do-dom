@@ -1,0 +1,42 @@
+.header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.label {
+    font-family:-apple-system, "system-ui", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; 
+    font-size: 15px;
+
+}
+
+#user-text{
+    display: flex;
+    width: 400px; 
+    border-radius: 5px;
+}
+
+#add-button {
+    background-color: rgb(32,149,84);
+    border-color: rgb(32,149,84);;
+    color: white;
+    font-family: -apple-system, "system-ui", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    border-radius: 5px;
+    width: 50px;
+    
+}
+
+#remove-button {
+    background-color: rgb(247,199,12);
+    border-color: rgb(247,199,12);
+    font-family: -apple-system, "system-ui", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    border-radius: 5px;
+    width: 200px;
+} 
+
+#removeAll-button {
+    background-color: rgb(203,30,66);
+    border-color: rgb(203,30,66);
+    font-family: -apple-system, "system-ui", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    border-radius: 5px;
+    width: 100px;
+}

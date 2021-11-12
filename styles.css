@@ -40,3 +40,12 @@
     border-radius: 5px;
     width: 100px;
 }
+
+.list {
+    background-color:blanchedalmond; 
+    border-color: blanchedalmond;
+    font-family: -apple-system, "system-ui", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    border-radius: 5px;
+    margin-top: 5px;
+    
+}

@@ -1,3 +1,4 @@
+// VARIABLES
 const text = document.querySelector("#user-text");
 const addButton = document.querySelector("#add-button");
 const removeButton = document.querySelector("#remove-button");

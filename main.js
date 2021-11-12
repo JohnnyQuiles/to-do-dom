@@ -47,10 +47,9 @@ removeButton.addEventListener("click", function (event) {
 
 // ALLOW USER TO REMOVE ALL 
 removeAllButton.addEventListener("click", function (event) {
-    
-    
     const listItems = event.target;
     const newItem = document.createElement('div');
+    
     newItem.innerHTML = '<li>' + text.value + '</li>';
     ol.remove(newItem);
 })
